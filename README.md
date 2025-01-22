@@ -80,7 +80,7 @@ We welcome feedback, suggestions, and contributions to help us grow and improve.
 
 ## **Contact Us**
 Have questions or suggestions? Get in touch:  
-📧 Email: [contact@expify.ai](mailto:success@expify.ai)  
+📧 Email: [successexpify.ai](mailto:success@expify.ai)  
 🌐 Visit: [https://www.expify.ai](https://www.expify.ai)
 
 ---
